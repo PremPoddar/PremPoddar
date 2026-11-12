@@ -13,7 +13,6 @@ I build apps for Android, iOS, macOS and the web, and the odd bit of hardware to
 - **[Loadstone](https://prempoddar.is-a.dev/apps/loadstone/)** - save a spot, one arrow walks you back
 - **[LibreChat](https://prempoddar.is-a.dev/apps/librechat/)** - encrypted messaging over Bluetooth, no internet
 - **[Campfire](https://prempoddar.is-a.dev/apps/campfire/)** - a chat room for everyone nearby, hosted by one phone
-- **[Tune](https://github.com/PremPoddar/Tune)** - per-app volume mixer for Android
 
 ## Elsewhere
 
